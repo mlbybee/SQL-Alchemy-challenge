@@ -33,7 +33,9 @@ Station Analysis
 Part 2: Design your Climate App 
 The app.py Python script was created to design a climate app with a Flask API with 5 routes with JSON lists of climate information.
 
-- / -Start at the homepage. -List all the available routes.
+- / -Start at the homepage.
+
+- List all the available routes.
 
 - /api/v1.0/precipitation -Convert the query results from your precipitation analysis (i.e. retrieve only the -last 12 months of data) to a dictionary using date as the key and prcp as the value. -Return the JSON representation of your dictionary.
 
